@@ -1,0 +1,15 @@
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\bin\Debug\net7.0\Example001_HelloWorld.exe
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\bin\Debug\net7.0\Example001_HelloWorld.deps.json
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\bin\Debug\net7.0\Example001_HelloWorld.runtimeconfig.json
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\bin\Debug\net7.0\Example001_HelloWorld.dll
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\bin\Debug\net7.0\Example001_HelloWorld.pdb
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.csproj.AssemblyReference.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.AssemblyInfoInputs.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.AssemblyInfo.cs
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.dll
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\obj\Debug\net7.0\refint\Example001_HelloWorld.dll
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.pdb
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.genruntimeconfig.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example001_HelloWorld\obj\Debug\net7.0\ref\Example001_HelloWorld.dll
