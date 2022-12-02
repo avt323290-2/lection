@@ -1,0 +1,15 @@
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\bin\Debug\net7.0\Example004_Div.exe
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\bin\Debug\net7.0\Example004_Div.deps.json
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\bin\Debug\net7.0\Example004_Div.runtimeconfig.json
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\bin\Debug\net7.0\Example004_Div.dll
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\bin\Debug\net7.0\Example004_Div.pdb
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\obj\Debug\net7.0\Example004_Div.csproj.AssemblyReference.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\obj\Debug\net7.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\obj\Debug\net7.0\Example004_Div.AssemblyInfoInputs.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\obj\Debug\net7.0\Example004_Div.AssemblyInfo.cs
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\obj\Debug\net7.0\Example004_Div.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\obj\Debug\net7.0\Example004_Div.dll
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\obj\Debug\net7.0\refint\Example004_Div.dll
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\obj\Debug\net7.0\Example004_Div.pdb
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\obj\Debug\net7.0\Example004_Div.genruntimeconfig.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Example004_Div\obj\Debug\net7.0\ref\Example004_Div.dll
