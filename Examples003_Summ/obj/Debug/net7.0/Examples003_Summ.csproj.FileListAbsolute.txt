@@ -1,0 +1,15 @@
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\bin\Debug\net7.0\Examples003_Summ.exe
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\bin\Debug\net7.0\Examples003_Summ.deps.json
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\bin\Debug\net7.0\Examples003_Summ.runtimeconfig.json
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\bin\Debug\net7.0\Examples003_Summ.dll
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\bin\Debug\net7.0\Examples003_Summ.pdb
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\obj\Debug\net7.0\Examples003_Summ.csproj.AssemblyReference.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\obj\Debug\net7.0\Examples003_Summ.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\obj\Debug\net7.0\Examples003_Summ.AssemblyInfoInputs.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\obj\Debug\net7.0\Examples003_Summ.AssemblyInfo.cs
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\obj\Debug\net7.0\Examples003_Summ.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\obj\Debug\net7.0\Examples003_Summ.dll
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\obj\Debug\net7.0\refint\Examples003_Summ.dll
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\obj\Debug\net7.0\Examples003_Summ.pdb
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\obj\Debug\net7.0\Examples003_Summ.genruntimeconfig.cache
+E:\GeekBrains\C-sharp\Lection-Csh\Examples\Examples003_Summ\obj\Debug\net7.0\ref\Examples003_Summ.dll
